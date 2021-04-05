@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T22:56:26.463Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Rz7hniri-M7JCg6aTQ2W" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T22:57:00.270Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="sEdYOGdVoyhNOkD1PACG" version="14.5.6" type="github">
   <diagram id="brLJTESt5yLpLmb8uyz5" name="Page-1">
     <mxGraphModel dx="1975" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
           <mxGeometry x="-230" y="240" width="132" height="132" as="geometry" />
         </mxCell>
         <mxCell id="0jBMfMMow_lKPTIWhAsp-41" value="WAF SUBNET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="220" width="90" height="20" as="geometry" />
+          <mxGeometry x="-180" y="219.99" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0jBMfMMow_lKPTIWhAsp-45" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Private DNS Zones&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="475" y="-170" width="240" height="20" as="geometry" />
