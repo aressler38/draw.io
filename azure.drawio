@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T14:23:11.398Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="z7iIf_T6hrj3DfBWZ6Uc" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T14:41:53.826Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ySdjvgFKWETks3jV_cIA" version="14.5.10" type="github">
   <diagram id="brLJTESt5yLpLmb8uyz5" name="Page-1">
     <mxGraphModel dx="2779" dy="2251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,6 +318,9 @@
             <mxPoint x="960" y="-170.0025" as="sourcePoint" />
             <mxPoint x="832.2876304023844" y="88.56" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1faAbdde4lVnWvLxBe3s-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 42px&quot;&gt;Regional Multi-Tenant Deployment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-380" width="1760" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
